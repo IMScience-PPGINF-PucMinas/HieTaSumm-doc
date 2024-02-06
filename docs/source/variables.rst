@@ -11,19 +11,20 @@ The ``options.json`` file is responsible for defining some variables used in the
 The standard values used in the ``options.json`` file are listed below: 
 
 .. code-block:: javascript 
-  {
-    "video_path": "./videos",
-    "summary_path": "./summary",
-    "percent": 15,
-    "alpha": 75,
-    "rate": 4,
-    "time": 8,
-    "hierarchy": "watershed_hierarchy_by_area",
-    "selected_model": "resnet50",
-    "is_binary": true,
-    "keyshot": true, 
-    "keyframe": true
-  }
+
+    {
+      "video_path": "./videos",
+      "summary_path": "./summary",
+      "percent": 15,
+      "alpha": 75,
+      "rate": 4,
+      "time": 8,
+      "hierarchy": "watershed_hierarchy_by_area",
+      "selected_model": "resnet50",
+      "is_binary": true,
+      "keyshot": true, 
+      "keyframe": true
+    }
 
 :video_path: define the path to the videos folder
 :summary_path: define the summary result path 
