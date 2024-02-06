@@ -7,7 +7,6 @@ The following python notebooks contain examples demonstrating HieTaSumm usage.
 
 Summarizing Videos with HieTaSumm
 ---------------
-These examples deal with upper and lower treshold set of vertex-weighted graphs.
 
 ============================================= ============= =============
 Summarizing one single video                      |v1|_        |co1|_ 
