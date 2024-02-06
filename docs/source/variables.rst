@@ -10,7 +10,7 @@ Dynamic Variables
 The ``options.json`` file is responsible for defining some variables used in the code and in defining the summary scope. 
 The standard values used in the ``options.json`` file are listed below: 
 
-.. code-block:: javascript 
+.. code-block:: JSON 
   {
     "video_path": "./videos",
     "summary_path": "./summary",
