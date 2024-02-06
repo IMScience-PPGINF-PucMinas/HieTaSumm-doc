@@ -10,7 +10,7 @@ Dynamic Variables
 The ``options.json`` file is responsible for defining some variables used in the code and in defining the summary scope. 
 The standard values used in the ``options.json`` file are listed below: 
 
-.. code-block:: JSON 
+.. code-block:: javascript 
   {
     "video_path": "./videos",
     "summary_path": "./summary",
@@ -28,7 +28,7 @@ The standard values used in the ``options.json`` file are listed below:
 :video_path: define the path to the videos folder
 :summary_path: define the summary result path 
 :percent:
-:alpha; changes the standard deviation
+:alpha: changes the standard deviation
 :rate: video rate
 :time: video time 
 :hierarchy: [watershed_hierarchy_by_area] defines the hierarchy used
