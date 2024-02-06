@@ -39,9 +39,10 @@ The standard values used in the ``options.json`` file are listed below:
 To change the values of the predefined variables you have to indicate the path to the file that contains the specifications as mentioned in the early section.
 
 .. code-block:: python
-  from HieTaSum import HieTaSum
-  HieTaSum(path_file_param=’your_json_file’)
-	
+
+    from HieTaSum import HieTaSum
+    HieTaSum(path_file_param=’your_json_file’)
+
 This notebook is an example of this use case. 
 
 

@@ -1,9 +1,7 @@
 Welcome to HieTaSumm's documentation!
 ===================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
+Check out the :ref:`installation` section for further information.
 .. note::
 
    This project is under active development.
@@ -16,7 +14,7 @@ Contents
     :caption: Informations
 
     Installation <install.rst>
-    Examples
+    Examples <examples.rst>
 .. toctree::
     :maxdepth: 2
     :caption: Fundamentals
@@ -26,5 +24,3 @@ Contents
 .. toctree::
    :maxdepth: 3
    :caption: Intermediate Files
-
-   Usage 

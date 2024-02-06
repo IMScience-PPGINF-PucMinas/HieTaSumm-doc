@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'HieTaSumm'
+copyright = '2023, Leonardo Cardoso Vilela'
+author = 'Leonardo Cardoso Vilela'
 
 release = '0.1'
 version = '0.1.0'

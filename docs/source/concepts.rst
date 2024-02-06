@@ -12,6 +12,7 @@ It is an approach based on unsupervised learning, using the cosine similarity be
 From the graph generated, we compute the hierarchy using the watershed method by area and, finally, we cut the graph, keeping only the keyframes and obtaining the video summary.
 
 .. code-block:: python
+
     from HieTaSum import HieTaSum
     HieTaSum()
 
