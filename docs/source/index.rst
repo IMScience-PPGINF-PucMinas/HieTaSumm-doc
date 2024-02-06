@@ -2,6 +2,7 @@ Welcome to HieTaSumm's documentation!
 ===================================
 
 Check out the :ref:`installation` section for further information.
+
 .. note::
 
    This project is under active development.
