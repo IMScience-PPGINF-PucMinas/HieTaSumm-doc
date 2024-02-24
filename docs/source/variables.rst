@@ -28,7 +28,7 @@ The standard values used in the ``options.json`` file are listed below:
 
 :video_path: define the path to the videos folder
 :summary_path: define the summary result path 
-:percent:
+:percent: defines the percentage of the original video that is represented by the summary
 :alpha: changes the standard deviation
 :rate: video rate
 :time: video time 
@@ -36,13 +36,17 @@ The standard values used in the ``options.json`` file are listed below:
 :selected_model: [resnet50, vgg16] defines the model to extract features
 :is_binary: [true, false] define if the graph is binary 
 
-To change the values of the predefined variables you have to indicate the path to the file that contains the specifications as mentioned in the early section.
+To change the values of the predefined variables you can pass the name followed by the value when calling the HieTaSumm method.
 
 .. code-block:: python
 
     from HieTaSum import HieTaSum
-    HieTaSum(path_file_param=’your_json_file’)
+    HieTaSum(video_path='localpath/to/your/video', percent=10)
 
-This notebook is an example of this use case. 
+`This notebook`_ is an example of this use case. 
 
+The algorithm used is described in:
+`"Hierarchical Time-aware Approach for Video Summarization"`_ Enhanced by Leonardo Vilela Cardoso, Silvio Jamil F. Guimarães and Zenilton K. G. Patrocínio Jr.
 
+.. _"Hierarchical Time-aware Approach for Video Summarization": https://link.springer.com/chapter/10.1007/978-3-031-45368-7_18
+.. _This notebook: https://colab.research.google.com/github/IMScience-PPGINF-PucMinas/HieTaSumm-examples/blob/main/Updating-the-dynamic-variables/Updating-the-dynamic-variables.ipynb
