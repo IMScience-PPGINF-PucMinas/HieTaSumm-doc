@@ -46,6 +46,7 @@ To change the values of the predefined variables you can pass the name followed 
 `This notebook`_ is an example of this use case. 
 
 The algorithm used is described in:
+
 `"Hierarchical Time-aware Approach for Video Summarization"`_ Enhanced by Leonardo Vilela Cardoso, Silvio Jamil F. Guimarães and Zenilton K. G. Patrocínio Jr.
 
 .. _"Hierarchical Time-aware Approach for Video Summarization": https://link.springer.com/chapter/10.1007/978-3-031-45368-7_18

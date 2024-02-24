@@ -12,6 +12,7 @@ It is an approach based on unsupervised learning, using the cosine similarity be
 From the graph generated, we compute the hierarchy using the watershed method by area and, finally, we cut the graph, keeping only the keyframes and obtaining the video summary.
 
 The algorithm used is described in:
+
 `"Hierarchical Time-aware Approach for Video Summarization"`_ Enhanced by Leonardo Vilela Cardoso, Silvio Jamil F. Guimarães and Zenilton K. G. Patrocínio Jr,
 
 .. code-block:: python
