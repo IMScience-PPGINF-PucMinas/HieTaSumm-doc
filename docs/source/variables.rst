@@ -49,5 +49,10 @@ The algorithm used is described in:
 
 `"Hierarchical Time-aware Approach for Video Summarization"`_ Enhanced by Leonardo Vilela Cardoso, Silvio Jamil F. Guimarães and Zenilton K. G. Patrocínio Jr.
 
+An example of the algorithm application is available in: 
+
+`Hierarchical Time-Aware Summarization with an Adaptive Transformer for Video Captioning.`_ Enhanced by Leonardo Vilela Cardoso, Silvio Jamil F. Guimarães and Zenilton K. G. Patrocínio Jr.
+
 .. _"Hierarchical Time-aware Approach for Video Summarization": https://link.springer.com/chapter/10.1007/978-3-031-45368-7_18
 .. _This notebook: https://colab.research.google.com/github/IMScience-PPGINF-PucMinas/HieTaSumm-examples/blob/main/Updating-the-dynamic-variables/Updating-the-dynamic-variables.ipynb
+.. _Hierarchical Time-Aware Summarization with an Adaptive Transformer for Video Captioning: https://openurl.ebsco.com/EPDB%3Agcd%3A12%3A12367964/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A173810537&crl=c

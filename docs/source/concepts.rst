@@ -27,4 +27,9 @@ Summarizes a video or a set of videos following the concepts mentioned, generati
 *Returns*: 
 	A folder containing the summarized video
 
+An example of the algorithm application is available in: 
+
+`Hierarchical Time-Aware Summarization with an Adaptive Transformer for Video Captioning.`_ Enhanced by Leonardo Vilela Cardoso, Silvio Jamil F. Guimarães and Zenilton K. G. Patrocínio Jr.
+
 .. _"Hierarchical Time-aware Approach for Video Summarization": https://link.springer.com/chapter/10.1007/978-3-031-45368-7_18
+.. _Hierarchical Time-Aware Summarization with an Adaptive Transformer for Video Captioning: https://openurl.ebsco.com/EPDB%3Agcd%3A12%3A12367964/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A173810537&crl=c
