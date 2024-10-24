@@ -28,6 +28,6 @@ The following commands will download the library, create a binary wheel and inst
 
 .. code-block:: bash
 
-    git clone link-para-github
+    git clone https://github.com/IMScience-PPGINF-PucMinas/HieTaSumm-lib.git
     cd HieTaSum
     python setup.py
